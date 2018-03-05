@@ -26,6 +26,7 @@ https://timber232.github.io/Awesome/
 - [Freeter](https://freeter.io) - <i class="fas fa-desktop"></i> <i class="fas fa-dollar-sign"></i> - Organize your projects in one spot.
 - [TaskWarrior](https://taskwarrior.org) - <i class="fas fa-terminal"></i> - Command line task management tool.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - <i class="fab fa-apple"></i> <i class="fas fa-mobile"></i> <i class="fas fa-dollar-sign"></i> - Personal task management software for Mac and iOS
+- [Everdo](https://everdo.net/) - <i class="fas fa-desktop"></i> <i class="fas fa-dollar-sign"></i> - Cross platform GTD task management tool.
 
 ### Utility
 
